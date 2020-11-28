@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+title: Skinny / Pitch
 ---
 
 ### Software is a means to an end.
