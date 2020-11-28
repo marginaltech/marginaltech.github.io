@@ -19,7 +19,7 @@ less bombastic than advertised.
 compounds modest, but substantive, benefits. In time, step-changes in how to do 
 business become apparent and hard for competitors' to reproduce.*
 
-It's not easy to do well. But it is more acheivable, and affordable, 
+It's not easy to do well. But it is more achievable, and affordable, 
 than what most of the technology industry will try and sell you.
 
 ### I help organisations elicit ends and execute means.
