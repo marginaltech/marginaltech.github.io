@@ -30,11 +30,11 @@ My experience is [broad and deep](https://www.linkedin.com/in/christopher-mcewan
 If you truly need the cutting-edge then I can offer that. Honestly, what most organisations 
 need is someone who can deliver technical solutions that are effective, proportionate and sustainable.
 
-Slick consultancies and big tech firms can't justify modesty or pragmatism in their 
-business models. But I can.  
+Sadly, the business models of big consultancies and tech firms can't tolerate modesty 
+or pragmatism. I became an independent consultant to do work that was more meaningful, 
+for both myself and my clients, than the fever dreams of the technology sector. 
 
-I became an independent consultant to do work that was more meaningful than the fever 
-dreams of the technology sector. I am a doer. I am thrifty. I am impact driven. 
+I am a doer. I am thrifty. I am impact driven. 
 I embrace unfamilar domains, calculated risks and commercial collaboration.
 
 You should consider me if you need more from consultancy than technology evangelism from an MBA. 
