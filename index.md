@@ -11,15 +11,14 @@ by digital innovation and transformation.
 
 Don't worry. It isn't. 
 
-Which isn't to say that companies that can think like a technology company 
-aren't an existential threat in your industry. Only that the path to competency 
+Which isn't to say that companies that can execute like a technology 
+company aren't an existential threat in your industry. Only that the threat 
 is less bombastic than advertised.
 
-
-1. *Systematically integrate software into bespoke business processes and
-compound modest, but substantive, benefits.* 
-2. *In time, step-changes in how to do business will become apparent and 
-will be difficult for competitors' to reproduce.*
+1. *Systematically integrating software into bespoke business processes 
+compounds modest, but substantive, benefits.* 
+2. *Over time, step-changes in how to do business become apparent and 
+are difficult for competitors' to reproduce.*
 
 It's not easy to do well. But it is more achievable, and affordable, 
 than what most of the technology industry will try and sell you.
