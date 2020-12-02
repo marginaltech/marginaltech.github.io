@@ -30,7 +30,7 @@ If you truly need the cutting-edge then I offer that. Honestly, what most organi
 need is someone who can design and deliver technical solutions that are effective, 
 proportionate and sustainable.
 
-The business models of big consultancies and tech firms won't tolerate simply meeting 
+The business models of big consultancies and tech firms won't tolerate simply addressing 
 clients' needs. They need to upsell grand visions and fever dreams. I became an independent 
 consultant to do work that was more meaningful, to both me and my clients. 
 
