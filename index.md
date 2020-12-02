@@ -20,7 +20,7 @@ and compound modest, but substantive, benefits.*
 2. *In time, step-changes in how to do business will become apparent and 
 be difficult for competitors' to reproduce.*
 
-That's easier said than done. But its more achievable, and affordable, 
+That's easier said than done. But it's more achievable, and affordable, 
 than what the technology sector will try to sell you.
 
 ### I help organisations elicit ends and execute means.
