@@ -9,32 +9,33 @@ title: Skinny / Pitch
 You might have been led to believe that your industry is being disrupted
 by digital innovation and transformation.
 
-Don't worry. It isn't. 
+Don't worry. It probably isn't. 
 
-Which isn't to say that companies that can execute like a technology 
-company aren't an existential threat in your industry. Only that the threat 
-is less bombastic than advertised.
+The existential threat in your industry are incumbents that really 
+learn to execute like a technology company. But that threat is simple 
+to understand and counter.
 
-1. *Systematically integrating software into bespoke business processes 
-compounds modest, but substantive, benefits.* 
-2. *Over time, step-changes in how to do business become apparent and 
-are difficult for competitors' to reproduce.*
+1. *Systematically integrate software automation into bespoke processes 
+and compound modest, but substantive, benefits.* 
+2. *In time, step-changes in how to do business will become apparent and 
+be difficult for competitors' to reproduce.*
 
-It's not easy to do well. But it is more achievable, and affordable, 
-than what most of the technology industry will try and sell you.
+That's easier said than done. But its more achievable, and affordable, 
+than what the technology sector will try to sell you.
 
 ### I help organisations elicit ends and execute means.
 
 My experience is [broad and deep](https://www.linkedin.com/in/christopher-mcewan-850a0a62). 
-If you truly need the cutting-edge then I can offer that. Honestly, what most organisations 
-need is someone who can deliver technical solutions that are effective, proportionate and sustainable.
+If you truly need the cutting-edge then I offer that. Honestly, what most organisations 
+need is someone who can design and deliver technical solutions that are effective, 
+proportionate and sustainable.
 
-Sadly, the business models of big consultancies and tech firms can't tolerate modesty 
-or pragmatism. I became an independent consultant to do work that was more meaningful, 
-for both myself and my clients, than the fever dreams of the technology sector. 
+The business models of big consultancies and tech firms won't tolerate simply meeting 
+clients' needs. They need to upsell grand visions and fever dreams. I became an independent 
+consultant to do work that was more meaningful, to both me and my clients. 
 
-I am a doer. I am thrifty. I am impact driven. 
-I embrace unfamilar domains, calculated risks and commercial collaboration.
+I am a doer. I am thrifty. I am impact driven. I embrace unfamilar domains, calculated 
+risks and commercial collaboration.
 
 You should consider me if you need more from consultancy than technology evangelism from an MBA. 
 
