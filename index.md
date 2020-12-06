@@ -15,12 +15,14 @@ Incumbents that learn to execute like a technology company really
 are an existential threat in your industry. But that threat is 
 simple to understand and counter:
 
-1. *Systematically integrate software automation into, and across, your bespoke business processes.* 
+1. *Methodically integrate software automation and analytics into your bespoke business processes.* 
 2. *Compound modest, but substantive, benefits in efficiency.* 
 3. *In time, step-changes in how you could do business will be apparent and difficult for competitors' to reproduce.*
 
-It might be simple, but it's not easy to do well. 
+It's simple, but not easy. 
 
+It should be more achievable, for more organisations, than what 
+the technology sector is currently selling.
 
 ### I help organisations elicit ends and execute means.
 
@@ -29,8 +31,8 @@ If you truly need the cutting-edge then I offer that. Honestly, what most organi
 need is someone who can design and deliver technical solutions that are effective, 
 proportionate and sustainable.
 
-The business models of big consultancies and tech firms can't tolerate addressing 
-clients' needs. They need to upsell grand visions and fever dreams. I became an independent 
+The business models of big consultancies and tech firms can't tolerate proportionality. 
+They need to upsell grand visions and fever dreams. I became an independent 
 consultant to do work that was more meaningful, to both me and my clients. 
 
 I am a doer. I am thrifty. I am impact driven. I embrace unfamilar domains, calculated 
