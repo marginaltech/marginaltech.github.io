@@ -11,17 +11,16 @@ by digital innovation and transformation.
 
 Don't worry. It probably isn't. 
 
-The existential threat in your industry are incumbents that really 
-learn to execute like a technology company. But that threat is simple 
-to understand and counter.
+Incumbents that learn to execute like a technology company really
+are an existential threat in your industry. But that threat is 
+simple to understand and counter:
 
-1. *Systematically integrate software automation into bespoke processes 
-and compound modest, but substantive, benefits.* 
-2. *In time, step-changes in how to do business will become apparent and 
-be difficult for competitors' to reproduce.*
+1. *Systematically integrate software automation into, and across, your bespoke business processes.* 
+2. *Compound modest, but substantive, benefits in efficiency.* 
+3. *In time, step-changes in how you could do business will be apparent and difficult for competitors' to reproduce.*
 
-That's easier said than done. But it's more achievable, and affordable, 
-than what the technology sector will try to sell you.
+It might be simple, but it's not easy to do well. 
+
 
 ### I help organisations elicit ends and execute means.
 
@@ -30,7 +29,7 @@ If you truly need the cutting-edge then I offer that. Honestly, what most organi
 need is someone who can design and deliver technical solutions that are effective, 
 proportionate and sustainable.
 
-The business models of big consultancies and tech firms won't tolerate simply addressing 
+The business models of big consultancies and tech firms can't tolerate addressing 
 clients' needs. They need to upsell grand visions and fever dreams. I became an independent 
 consultant to do work that was more meaningful, to both me and my clients. 
 
