@@ -12,7 +12,7 @@ by digital innovation and transformations.
 It isn't.  
 
 Genuine technological competence is the existential threat in your industry.
-But that threat is much simpler to understand and counter:
+That threat is simple to understand and counter.
 
 1. *Methodically integrate software automation and analytics into bespoke business processes.* 
 2. *Compound modest, but substantive, benefits in terms of efficiency and insights.* 
