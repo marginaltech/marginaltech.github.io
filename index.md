@@ -22,8 +22,9 @@ It's simple, but it's not easy.
 
 ### I help organisations elicit ends and execute means.
 
-I became an independent consultant to do work that was more meaningful, for my clients and myself, 
-than the grandiose fever dreams peddled by most of the technology sector. 
+After more than a decade in the technology industry, I became an independent consultant to do 
+work that was more meaningful, for my clients and myself, than the grandiose fever dreams peddled 
+by the big consultancies and firms. 
 
 My experience is [broad and deep](https://www.linkedin.com/in/christopher-mcewan-850a0a62). 
 If you truly need the cutting-edge then I offer that. Honestly, what most organisations 
