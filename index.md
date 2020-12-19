@@ -15,7 +15,7 @@ Genuine technological competence is the existential threat in your industry.
 But that threat is much simpler to understand and counter:
 
 1. *Methodically integrate software automation and analytics into bespoke business processes.* 
-2. *Compound modest, but substantive, benefits in efficiency and insights.* 
+2. *Compound modest, but substantive, benefits in terms of efficiency and insights.* 
 3. *In time, step-changes in how to do business will become apparent and will be difficult for competitors' to reproduce.*
 
 It's simple, but it's not easy. 
