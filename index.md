@@ -7,36 +7,30 @@ title: Skinny / Pitch
 ### Software is a means to an end.
 
 You might have been led to believe that your industry is being disrupted
-by digital innovation and transformation.
+by digital innovation and transformations.
 
-Don't worry. It probably isn't. 
+It isn't.  
 
-Incumbents that learn to execute like a technology company really
-are an existential threat in your industry. But that threat is 
-simple to understand and counter:
+Technological competence is the existential threat in your industry.
+But that threat is much simpler to understand and counter:
 
-1. *Methodically integrate software automation and analytics into your bespoke business processes.* 
-2. *Compound modest, but substantive, benefits in efficiency.* 
-3. *In time, step-changes in how you could do business will be apparent and difficult for competitors' to reproduce.*
+1. *Methodically integrate software automation and analytics into bespoke business processes.* 
+2. *Compound modest, but substantive, benefits in efficiency and insights.* 
+3. *In time, step-changes in how you could do business will become apparent and be difficult for competitors' to reproduce.*
 
-It's simple, but not easy. 
-
-It should be more achievable, for more organisations, than what 
-the technology sector is currently selling.
+It's simple, but it's not easy. 
 
 ### I help organisations elicit ends and execute means.
+
+I became an independent consultant to do work that was more meaningful, to both my clients and myself, 
+than the grandiose fever dreams of the technology sector. 
 
 My experience is [broad and deep](https://www.linkedin.com/in/christopher-mcewan-850a0a62). 
 If you truly need the cutting-edge then I offer that. Honestly, what most organisations 
 need is someone who can design and deliver technical solutions that are effective, 
 proportionate and sustainable.
 
-The business models of big consultancies and tech firms can't tolerate proportionality. 
-They need to upsell grand visions and fever dreams. I became an independent 
-consultant to do work that was more meaningful, to both me and my clients. 
-
-I am a doer. I am thrifty. I am impact driven. I embrace unfamilar domains, calculated 
-risks and commercial collaboration.
+I am a doer. I am thrifty. I am impact driven. I embrace unfamilar domains.
 
 You should consider me if you need more from consultancy than technology evangelism from an MBA. 
 
