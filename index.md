@@ -11,24 +11,23 @@ by digital innovation and transformations.
 
 It isn't.  
 
-Genuine technological competence is the existential threat in your industry.
-That threat is simple to understand and counter.
+Genuine technical competence is the existential threat in most industries.
+But that threat is simple to understand and counter:
 
-1. *Methodically integrate software automation and analytics into bespoke business processes.* 
-2. *Compound modest, but substantive, benefits in terms of efficiency and insights.* 
+1. *Methodically integrate automation and analytics into your business processes.* 
+2. *Compound modest, but substantive, benefits in terms of efficiency and insight.* 
 3. *In time, step-changes in how to do business will become apparent and will be difficult for competitors' to reproduce.*
 
-It's simple, but it isn't easy. 
+It's simple, but not easy. 
 
 ### I help organisations elicit ends and execute means.
 
-After more than a decade in the technology industry, I became an independent consultant to do 
-work that was more meaningful, for my clients and myself, than the grandiose fever dreams peddled 
-by the big consultancies and firms. 
+After more than a decade abetting the grandiose fever dreams of the technology industry, 
+I became an independent consultant to do work that was more meaningful, for me and my clients. 
 
 My experience is [broad and deep](https://www.linkedin.com/in/christopher-mcewan-850a0a62). 
-If you truly need the cutting-edge then I offer that. Honestly, what most organisations 
-need is someone who can design and deliver technical solutions that are effective, 
+If you truly need the cutting-edge then I can offer that. What you probably 
+need is someone who will design and deliver technical capabilities that are effective, 
 proportionate and sustainable.
 
 I am a doer. I am thrifty. I am impact driven. I embrace unfamilar domains.
