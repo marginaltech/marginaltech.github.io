@@ -16,7 +16,7 @@ But that threat is simple to understand and counter:
 
 1. *Methodically integrate automation and analytics into your business processes.* 
 2. *Compound modest, but substantive, benefits in terms of efficiency and insight.* 
-3. *In time, step-changes in how to do business will become apparent and will be difficult for competitors' to reproduce.*
+3. *In time, step-changes in how to do business will become apparent and be difficult for competitors' to reproduce.*
 
 It's simple, but not easy. 
 
