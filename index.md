@@ -11,26 +11,30 @@ by digital innovation and transformations.
 
 It isn't.  
 
-Genuine technical competence is the existential threat in most industries.
+The existential threat in most industries is genuine digital competence.
 But that threat is simple to understand and counter:
 
 1. *Methodically integrate automation and analytics into your business processes.* 
 2. *Compound modest, but substantive, benefits in terms of efficiency and insight.* 
-3. *In time, step-changes in how to do business will become apparent and be difficult for competitors' to reproduce.*
+3. *In time, this compounding will make step-changes in your business 
+    apparent and difficult for competitors' to reproduce.*
 
 It's simple, but not easy. 
 
 ### I help organisations elicit ends and execute means.
+ 
+Let your competitors waste time and money chasing the grandiose fever dreams 
+of big tech firms and consultancies.
 
-After more than a decade abetting the grandiose fever dreams of the technology industry, 
-I became an independent consultant to do work that was more meaningful, for me and my clients. 
+I became an independent consultant to do work that was more meaningful, 
+to both me and my clients. I called the company Marginal Technologies 
+to remind myself where value really lies.
 
 My experience is [broad and deep](https://www.linkedin.com/in/christopher-mcewan-850a0a62). 
-If you truly need the cutting-edge then I can offer that. What you probably 
-need is someone who will design and deliver technical capabilities that are effective, 
-proportionate and sustainable.
+If you truly need the cutting-edge then I offer that. What you probably need is someone 
+who can design and deliver digital capabilities that are effective, proportionate and sustainable.
 
-I am a doer. I am thrifty. I am impact driven. I embrace unfamilar domains.
+I am a doer. I am thrifty. I am impact driven. 
 
 You should consider me if you need more from consultancy than technology evangelism from an MBA. 
 
