@@ -18,7 +18,7 @@ That is much simpler to understand:
 1. Methodically integrate automation and analytics into your business processes.
 2. Compound modest, but substantive, benefits in terms of efficiency and insight. 
 3. In time, this compounding will make step-changes in your business 
-    apparent and difficult for competitors' to reproduce.
+    apparent and difficult for competitors to reproduce.
 
 It's simple, but not easy. 
 
