@@ -23,19 +23,17 @@ That is much simpler to understand:
 It's simple, but not easy. 
 
 ### I help organisations elicit ends and execute means.
- 
+
+My experience is [broad and deep](https://www.linkedin.com/in/christopher-mcewan-850a0a62).
+I have a history of innovating in unfamiliar domains. If you truly need the cutting-edge 
+that's fine. More likely, you need capabilities that are effective, proportionate and sustainable. 
+
 Let your competitors waste time and money indulging the grandiose 
 fever dreams of big tech firms and consultancies.
 
 I became an independent consultant to do work that was more meaningful, 
 to both me and my clients. I called the company Marginal Technologies 
 to remind myself where value really lies.
-
-My experience is [broad and deep](https://www.linkedin.com/in/christopher-mcewan-850a0a62).
-I have a history of innovating in unfamiliar domains. If you truly need the cutting-edge 
-then that's fine. More likely, you need capabilities that are effective, proportionate and sustainable. 
-
-That's what I offer. I am a doer. Thrifty. Impact driven.
 
 You should consider me if you need more from consultancy than technology evangelism from an MBA. 
 
