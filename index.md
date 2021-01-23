@@ -15,20 +15,19 @@ The existential threat in most industries is genuine digital competence.
 That threat is simple to understand and counter:
 
 1. Methodically integrate automation and analytics into your business processes.
-2. Compound modest, but substantive, benefits in terms of insight and efficiency. 
-3. In time, this compounding will make step-changes in your business apparent and difficult for competitors to reproduce.
+2. Compound modest, but substantive, capabilities that provide insight and efficiency. 
+3. In time, compounding will make step-changes in your business apparent and difficult for competitors to reproduce.
 
 It's simple, but not easy. 
 
 ### I help organisations elicit ends and execute means.
 
-If you seriously want to tackle problems and opportunities in your industry 
-then you'll need capabilities that are effective, proportionate and sustainable. 
+Meaningful changes are effective, proportionate and sustainable. 
 
 Let your competitors waste time and money indulging the grandiose 
-fever dreams of big tech firms and consultancies.
+fever dreams of speculating technologists.
 
-I started my own consultancy to do work that was more meaningful, 
+I started a consultancy to do work that was meaningful, 
 to both me and my clients. I called it Marginal Technologies 
 to remind myself where value really lies.
 
@@ -37,7 +36,7 @@ I have a history of innovating in unfamiliar domains. I am a doer. Thrifty. Impa
  
 You should consider me if you need more from consultancy than technology evangelism from an MBA. 
 
-#### It's more fun when you talk too
+#### Thanks for reading. Now you talk.
 
 <form action="https://submit-form.com/j1CmLPsN" target="_self">
    <input type="text" name="email" placeholder="Contact details">
