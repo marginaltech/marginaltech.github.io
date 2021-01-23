@@ -15,8 +15,8 @@ The existential threat in most industries is genuine digital competence.
 That threat is simple to understand and counter:
 
 1. Methodically integrate automation and analytics into your business processes.
-2. Compound modest, but substantive, capabilities that provide insight and efficiency. 
-3. In time, compounding will make step-changes in your business apparent and difficult for competitors to reproduce.
+2. Compound modest, but substantive, capabilities that mutually reinforce insight and efficiency. 
+3. In time, step-changes in how you could do business will be apparent and difficult for competitors to reproduce.
 
 It's simple, but not easy. 
 
