@@ -13,17 +13,17 @@ The existential threat posed by technology in most industries is much
 simpler to understand and counter:
 
 1. Methodically integrate automation and analytics into your business processes.
-2. Compound modest capabilities that mutually reinforce insight and efficiency. 
+2. Compound modest bespoke capabilities that mutually reinforce insight and efficiency. 
 3. Step-changes in how you do business will become apparent and be difficult for competitors to reproduce.
 
-It's a longer game. Simple, but not easy. 
+That's how technology companies do it. Simple, but not easy. 
 
 ### I help organisations elicit ends and execute means.
 
 Meaningful change is effective, proportionate and sustainable. 
 
 Let your competitors waste time and money indulging 
-the grandiose speculation of technologists.
+the grandiose speculation of the technology press.
 
 I started a consultancy to do work that was more meaningful, 
 to both me and my clients. I called it Marginal Technologies 
