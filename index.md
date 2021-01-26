@@ -9,25 +9,23 @@ title: Marginal Technologies
 You might have been led to believe that your industry is being disrupted
 by digital innovation and transformations.
 
-It isn't.  
-
-The existential threat in most industries is genuine digital competence.
-That threat is simple to understand and counter:
+The existential threat posed by technology in most industries is much 
+simpler to understand and counter:
 
 1. Methodically integrate automation and analytics into your business processes.
-2. Compound modest, but substantive, capabilities that mutually reinforce insight and efficiency. 
-3. In time, step-changes in how you could do business will be apparent and difficult for competitors to reproduce.
+2. Compound modest capabilities that mutually reinforce insight and efficiency. 
+3. Step-changes in how you do business will become apparent and be difficult for competitors to reproduce.
 
-It's simple, but not easy. 
+It's a longer game. Simple, but not easy. 
 
 ### I help organisations elicit ends and execute means.
 
-Meaningful changes are effective, proportionate and sustainable. 
+Meaningful change is effective, proportionate and sustainable. 
 
-Let your competitors waste time and money indulging the grandiose 
-fever dreams of speculating technologists.
+Let your competitors waste time and money indulging 
+the grandiose speculation of technologists.
 
-I started a consultancy to do work that was meaningful, 
+I started a consultancy to do work that was more meaningful, 
 to both me and my clients. I called it Marginal Technologies 
 to remind myself where value really lies.
 
@@ -36,7 +34,7 @@ I have a history of innovating in unfamiliar domains. I am a doer. Thrifty. Impa
  
 You should consider me if you need more from consultancy than technology evangelism from an MBA. 
 
-#### Thanks for reading. Now you talk.
+#### Thanks for reading. Let's talk.
 
 <form action="https://submit-form.com/j1CmLPsN" target="_self">
    <input type="text" name="email" placeholder="Contact details">
