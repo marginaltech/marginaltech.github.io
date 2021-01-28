@@ -18,9 +18,9 @@ simpler to understand and counter:
 
 Simple, but not easy. 
 
-Like many good things in life, the passage of time between (2) and (3) is crucial and 
-under-appreciated. This is what innovation looks like behind the curtain. You can't buy 
-your way straight to (3), although plenty of people will sell you that if you're buying.
+Like many things in life, the passage of time between (2) and (3) is crucial and 
+under-appreciated. Innovation is cumulative. You can't buy your way straight to (3), 
+although plenty of people will sell you that if you are buying.
 
 ### I help organisations elicit ends and execute means.
 
