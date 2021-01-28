@@ -20,7 +20,7 @@ Simple, but not easy.
 
 Like many good things in life, the passage of time between (2) and (3) is crucial and 
 under-appreciated. This is what innovation looks like behind the curtain. You can't buy 
-your way straight to (3), although plenty of people will sell you that if your buying.
+your way straight to (3), although plenty of people will sell you that if you're buying.
 
 ### I help organisations elicit ends and execute means.
 
