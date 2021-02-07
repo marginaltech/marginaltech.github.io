@@ -9,34 +9,41 @@ title: Marginal Technologies
 You might have been led to believe that your industry is being disrupted
 by digital innovation and transformations.
 
-The existential threat posed by technology in most industries is much 
-simpler to understand and counter:
+Certainly, a lot of people have a financial incentive 
+in making "digitalisation" appear impressive, confusing and expensive.
 
-1. Methodically integrate automation and analytics into your business processes.
-2. Compound modest bespoke capabilities that mutually reinforce insight and efficiency. 
-3. Step-changes in how you do business will become apparent and be difficult for competitors to reproduce.
+I believe the threat and promise of technology in most industries is 
+more broadly accessible than advertised. It goes like this:
 
-Simple, but not easy. 
+1. Integrate automation and analytics into your processes.
+2. Develop modest, but substantive, bespoke capabilities. 
+3. Repeat, reinforcing insight and efficiency. 
+4. Step-changes in how you do business will become apparent and be difficult for competitors to reproduce.
 
-Like many things in life, the passage of time between (2) and (3) is crucial and 
-under-appreciated. Innovation appears sudden from the outside, but is a compounding 
-process on the inside. You can't buy your way straight to (3), although plenty of people will 
-sell you that if you are buying.
+Innovation isn't speculation. Disciplined reinvestment 
+of marginal gains in private is what drives the unexpected 
+leaps in capability deemed innovative in public.
+
+This is technology as it is played, rather than as it is sold.
+
+It's simple, but not easy. 
 
 ### I help organisations elicit ends and execute means.
 
-Meaningful changes are effective, proportionate and sustainable. 
+Let your competitors waste time and money indulging grandiose 
+visions of digital transformation.
 
-I started a consultancy to do hands-on work that was more meaningful, 
-to both me and my clients. I called it Marginal Technologies to remind 
-myself where value really lies.
+I started my own consultancy to do work that was more 
+meaningful, to both me and my clients. I called it Marginal Technologies 
+to remind myself where value really lies: in complementary changes 
+that are effective, proportionate and sustainable.
 
 My experience is [broad and deep](https://www.linkedin.com/in/christopher-mcewan-850a0a62). 
 I have a history of innovating in unfamiliar domains. I am a doer. Thrifty. Impact driven.
  
 You should consider me if you need more from consultancy than technology evangelism from an MBA. 
 
-#### Thanks for reading. Now let's talk.
+#### Thanks for reading. Talking is more fun.
 
 <form action="https://submit-form.com/j1CmLPsN" target="_self">
    <input type="text" name="email" placeholder="Contact details">
