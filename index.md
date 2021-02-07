@@ -31,7 +31,7 @@ It's simple, but not easy.
 ### I help organisations elicit ends and execute means.
 
 Let your competitors waste time and money indulging grandiose 
-visions of digital transformation.
+visions of a digital transformation.
 
 I started my own consultancy to do work that was more 
 meaningful, to both me and my clients. I called it Marginal Technologies 
