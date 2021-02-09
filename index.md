@@ -21,8 +21,7 @@ more broadly accessible than advertised. It goes like this:
 4. Step-changes in how you do business will become apparent and be difficult for competitors to reproduce.
 
 Innovation isn't speculation. Disciplined reinvestment 
-of marginal gains in private is what drives the unexpected 
-leaps in capability deemed innovative in public.
+of marginal gains is what drives unexpected leaps in capability.
 
 This is technology as it is played, rather than as it is sold.
 
