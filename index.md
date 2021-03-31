@@ -10,7 +10,7 @@ You might have been led to believe that your industry is being disrupted
 by digital innovations and transformations.
 
 For most industries, the threat and promise of "digitalisation" is real,
-albeit overstated to upsell technology and support contracts to bamboozled 
+albeit overstated in order to upsell technology and support contracts to bamboozled 
 incumbents. 
 
 Innovation is not a product or service that can be bought in. The good news is that it is more 
